@@ -16,5 +16,5 @@ This CSV file contains information about YouTube videos and transcripts of Tenen
 
 ## Contact
 
-email: dhruv_mehrotra@wired.com || signal: @dmehro.90
+email: dhruv_mehrotra@wired.com || signal: @dmehro.89
 
